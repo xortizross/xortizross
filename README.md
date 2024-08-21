@@ -2,7 +2,7 @@
 
 My name is Xochitl (pronounced só-chill 🏝️). Preferred pronouns: she/they  
 
-I am a Ph.D. candidate in the Ecology and Evolutionary Biology department at UCLA in the [Blumstein Lab](https://blumsteinlab.eeb.ucla.edu). I am a behavioral ecologist studying the long-term consequences of early-life adversity in wild [yellow-bellied marmots](https://en.wikipedia.org/wiki/Yellow-bellied_marmot). 
+I am a Ph.D. candidate in the Ecology and Evolutionary Biology department at UCLA in the [Blumstein Lab](https://blumsteinlab.eeb.ucla.edu). I am a behavioral ecologist studying the long-term consequences of early-life adversity in wild yellow-bellied marmots (check-out [my latest paper](https://onlinelibrary.wiley.com/doi/10.1111/ele.14485)!) 
 
 - 🔭 I’m currently working on developing a [Carpentries](https://carpentries.org) lesson titled ["RRRRR... I'm stuck!"](https://github.com/kaijagahm/R-help-reprexes) that teaches learners how to troubleshoot their code and ask for help by creating minimal reproducible examples.  
 - 🌱 I’m currently learning how to collaborate on developing an open-source lesson using GitHub!
